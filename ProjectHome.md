@@ -1,0 +1,1 @@
+Mirage is a real-time fantasy roguelike game. It's being coded in C++ for the Playground SDK. The code base is being designed as abstract as possible so in the future it can be a roguelike library for other similar games.
